@@ -29,7 +29,7 @@ The exploratory data analysis revealed that the average optimal planting date ba
 
 
 
-![alt_text](Data-Science-Techniques/Modules/Identifying the Optimal Planting Date Based on Temperature Data/Optimal_Planting_Date.png)
+![](Optimal_Planting_Date.png)
 
 
 **Limitations and Bias:**
